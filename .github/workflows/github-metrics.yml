@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: rohit710/metrics
+      - uses: rohit-710/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
