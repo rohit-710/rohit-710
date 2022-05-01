@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/018/831/079/original/camille-unknown-bird-city-ok.gif)]()
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/018/831/079/original/camille-unknown-bird-city-ok.gif)](https://github.com/rohit-710)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">I'm a Senior Undergrad CSE student with a penchant for Coding. Currently exploring the world of Blockchain, Crypto, Web 3.0, De-Fi and DAO. I enjoy tackling every-day challenges by using technology, with an incessant thirst for knowledge. When presented with opportunities outside of my comfort zone, I take them in stride and strive to excel. Do connect with me on LinkedIn.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/5b/0f/f55b0f3e0d9b878ed9192b8358fd1480.gif">
