@@ -4,7 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/5b/0f/f55b0f3e0d9b878ed9192b8358fd1480.gif">
 <p align="left"> <a href="https://twitter.com/rohit7101" target="blank"><img src="https://img.shields.io/twitter/follow/rohit7101?logo=twitter&style=for-the-badge" alt="rohit7101" /></a> </p>
 
-- 🔭 I’m an upcoming Mitacs GRI Intern at [University of Toronto, Toronto](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
+- 🔭 I’m an upcoming **Mitacs GRI Intern** at [University of Toronto, Toronto](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
+
+- 👨‍💼 I'm a **Product Management Intern** at [SolaceVR](https://www.linkedin.com/company/solacevr/)
 
 - 🌱 I’m currently learning **Solidity, Hardhat, NextJS, DAOs, and Web 3.0**
 
