@@ -8,6 +8,8 @@
 
 - 👨‍💼 I'm a **Product Management Intern** at [SolaceVR](https://www.linkedin.com/company/solacevr/)
 
+- 🚀 I'm also a **Developer DAO Dev** (member), **Dev#2116** [NFT Link](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/2116)
+
 - 🌱 I’m currently learning **Solidity, Hardhat, NextJS, DAOs, and Web 3.0**
 
 - 👨‍🏫 I was a Coding Tutor at [LIDO Learning](https://www.lidolearning.com/)
