@@ -8,6 +8,8 @@
 
 - 👨‍💼 I'm a **Product Management Intern** at [SolaceVR](https://www.linkedin.com/company/solacevr/)
 
+- 🌍 I am also a part of the Web 3 Sustainability Analyst Program at [VoizDAO](https://voizdao.notion.site/voizdao/VoizDAO-Web3-Sustainability-Analyst-Program-034bfe39d1f74e9eb710ead064fe6e39)
+
 - 🚀 I'm also a **Developer DAO Dev** (member), **Dev#2116** [NFT Link](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/2116)
 
 - 🌱 I’m currently learning **Solidity, Hardhat, NextJS, DAOs, and Web 3.0**
