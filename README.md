@@ -18,9 +18,9 @@
 
 - 🤝 I’m currently working on [REVOLT⚡Platform(Real Estate ~ Virtual Ownership ~ Land Transfer)](https://revolt-beryl.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohit-710](https://github.com/rohit-710)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/rohit-710?tab=repositories)
 
-- 🚀 Check out some of the NFTs I have earned [https://opensea.io/Rohit710](https://opensea.io/Rohit710)
+- 🚀 Check out some of the NFTs I have earned [NFTs Earned](https://opensea.io/Rohit710) | [NFTs Purchased/Rewarded](https://opensea.io/Rohit7101)
 
 - 💬 Ask me about **Blockchain Development**
 
