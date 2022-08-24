@@ -12,6 +12,8 @@
 
 - 🚀 I'm also a **Developer DAO Dev** (member), **Dev#2116** [NFT Link](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/2116)
 
+- 🌱 I'm also a Dream DAO Season 2 **Builder**, [Read more](https://www.dreamdao.xyz/)
+
 - 🌱 I’m currently learning **Solidity, Hardhat, NextJS, DAOs, and Web 3.0**
 
 - 👨‍🏫 I was a Coding Tutor at [LIDO Learning](https://www.lidolearning.com/)
@@ -26,7 +28,7 @@
 
 - 📫 How to reach me **range.elder3754@eagereverest.com**
 
-- 📄 Know about my experiences(Resume) [https://tinyurl.com/yxqlhp5w](https://tinyurl.com/yxqlhp5w)
+- 📄 Know about my experiences(Resume) [Click here](https://tinyurl.com/hu5u2ytz)
 
 - ⚡ Fun fact **I love Weightlifting, Reading, and listening to Music.**
 
