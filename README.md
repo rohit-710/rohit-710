@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I was a **Technical Community Manager** at [thirdweb](https://thirdweb.com)
 
-- 👨‍💼 I'm a **Product Manager** at [SCINET](https://www.scinet.one/)
+- 👨‍💼 I was a **Product Manager** at [SCINET](https://www.scinet.one/)
 
 - 🔭 I also did **NLP and AI Research** at [University of Toronto](https://leme.library.utoronto.ca/)
 
