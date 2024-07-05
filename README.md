@@ -13,6 +13,8 @@
 
 - 🔭 I also did **NLP and AI Research** at [University of Toronto](https://leme.library.utoronto.ca/)
 
+- 📜 Read my most recent technical blogs [here](https://blog.crossmint.com/author/rohit/?utm_source=rohit).
+
 - 👨‍🏫 I was also Coding Tutor at [LIDO Learning](https://www.linkedin.com/company/lido-learning/)
 
 - 🌱 I’m currently learning **Zero-Knowledge Proofs, DeSci, Next JS and SEO Techniques**
