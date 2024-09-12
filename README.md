@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">I'm an Engineer, Community Manager, Researcher and a Teacher. I am a Developer Relations Engineer at <a href="www.crossmint.com">Crossmint.</a> I also have a Bachelor's Degree in Computer Science and Engineering (if that's relevant)</h3>
+<h3 align="center">I'm an Engineer, Community Manager, Researcher and a Teacher. I am the Head of Developer at <a href="www.walletconnect.com">WalletConnect.</a> I also have a Bachelor's Degree in Computer Science and Engineering (if that's relevant)</h3>
 <img width="400" align="right" alt="Coding" src="https://i.pinimg.com/originals/f5/5b/0f/f55b0f3e0d9b878ed9192b8358fd1480.gif">
 
 <p align="left"> <a href="https://twitter.com/rohit7101" target="blank"><img src="https://img.shields.io/twitter/follow/rohit7101?logo=twitter&style=for-the-badge" alt="rohit7101" /></a> </p>
