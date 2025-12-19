@@ -7,6 +7,8 @@
 
 - 🥑 I’m the **Head of DevRel** at [WalletConnect](https://walletconnect.com/)
 
+- 🥑 I was a **DevRel Engineer** at [Crossmint](https://crossmint.com/)
+
 - 🧑‍💻 I was a **Technical Community Manager** at [thirdweb](https://thirdweb.com)
 
 - 👨‍💼 I was a **Product Manager** at [SCINET](https://www.scinet.one/)
