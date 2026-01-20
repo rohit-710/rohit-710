@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">I'm an Engineer, Community Manager, Researcher and a Teacher. I am the Head of Developer at <a href="https://walletconnect.com">WalletConnect.</a> I also have a Bachelor's Degree in Computer Science and Engineering (if that's relevant)</h3>
+<h3 align="center">I am trained as an Engineer, but I work as an Educator. I am currently the Head of Developer Relations at <a href="https://walletconnect.com">WalletConnect.</a> </h3>
 <img width="400" align="right" alt="Coding" src="https://i.pinimg.com/originals/f5/5b/0f/f55b0f3e0d9b878ed9192b8358fd1480.gif">
 
 <p align="left"> <a href="https://twitter.com/rohit7101" target="blank"><img src="https://img.shields.io/twitter/follow/rohit7101?logo=twitter&style=for-the-badge" alt="rohit7101" /></a> </p>
@@ -15,11 +15,9 @@
 
 - 🔭 I also did **NLP and AI Research** at [University of Toronto](https://leme.library.utoronto.ca/)
 
-- 📜 Read my most recent technical blogs [here](https://blog.crossmint.com/author/rohit/?utm_source=rohit).
-
 - 👨‍🏫 I was also Coding Tutor at [LIDO Learning](https://www.linkedin.com/company/lido-learning/)
 
-- 🌱 I’m currently learning **Zero-Knowledge Proofs, DeSci, Next JS and SEO Techniques**
+- 🌱 I’m currently learning more about **AGI, MCP, MEVs, and UI/UX.**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/rohit-710?tab=repositories)
 
